@@ -1,5 +1,5 @@
 id,title,author,description,file
 bicycle,Bicycle,EGC Team,A small bicycle feature model,bicycle.uvl
 pizza,Pizza,EGC Team,Not a configurable pizza,pizza.uvl
-smartphone,Smartphone,EGC Student,A configurable smartphone,smartphone.uvl
+smartphone,Smartphone,EGC Student,Not a configurable smartphone,smartphone.uvl
 
